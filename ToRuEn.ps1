@@ -1,0 +1,1 @@
+Set-WinUserLanguageList -LanguageList 'ru', 'en-US' 
